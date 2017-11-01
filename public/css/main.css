@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0
+}
+#header {
+    background: rgba(0, 0, 0, 0) url(../img/header-bg.png) repeat-x scroll 0 0;
+    height: 65px;
+    background-color: #029387;
+    width: 100%;
+}
+.fleft {
+    float: left;
+}
+img {
+    vertical-align: middle;
+}
+.logo {
+    /* background: url(../images/index-logo.png) repeat scroll 0 0 rgba(0, 0, 0, 0); */
+    height: 45px;
+    margin: 17px 10px 10px 50px;
+    width: 45px;
+}
+.logo_title.fleft {
+    color: rgb(255, 255, 255);
+    font-family: "Microsoft YaHei";
+    font-size: 30px;
+    line-height: 71px;
+}
